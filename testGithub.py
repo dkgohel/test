@@ -6,4 +6,9 @@ if(n>10):
     print("2nd time commit")
     print("Adding some garbages")
 else:
+    s=input("Are you fan of virat kohli?")
+    if s=="yes":
+        print("We are in the same zone")
+    else:
+        print("We are enemy")
     print("Average Array")
