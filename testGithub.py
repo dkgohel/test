@@ -15,3 +15,5 @@ else:
         print("We are enemy")
         print("merge conflict again")
     print("Average Array")
+
+why there is no merge conflict?
